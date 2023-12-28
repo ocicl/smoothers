@@ -1,0 +1,9 @@
+* smoothers
+
+Statistical smoothing functions
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/smoothers.git |
+| commit  | e4184e2                                        |
+| systems | smoothers                                      |
+|---------+------------------------------------------------|
